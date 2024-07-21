@@ -4,6 +4,9 @@
 
 This script allows selecting a specific area of the screen for a Wacom device to operate only within that area. It provides options to rotate the device's orientation and define the size of the selected area based on its width or height.
 
+![demo wacom area](https://github.com/kelvinauta/set_wacom_area/blob/master/demo_wacom_area.cleaned.gif?raw=true)
+
+
 ## Usage
 Assuming you have your device already set up, connected, and also that you are using X11, install slop with the following command:
 Debian:
